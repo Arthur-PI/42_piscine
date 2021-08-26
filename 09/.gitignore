@@ -1,0 +1,8 @@
+*.DS_Store
+*/a.out
+*/main.c
+*/*.o
+*/*.a
+ex01/srcs/
+ex01/includes/
+

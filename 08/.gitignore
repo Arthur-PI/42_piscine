@@ -1,0 +1,7 @@
+*.DS_Store
+*/a.out
+*/main.c
+ex04/ft_stock_str.h
+*/*.o
+ex05/ft_strs_to_tab.c
+ex05/ft_stock_str.h

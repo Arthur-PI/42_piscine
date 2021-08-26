@@ -1,0 +1,4 @@
+*.DS_Store
+*/a.out
+*/main.c
+ex04/fibonacci_opti.c
