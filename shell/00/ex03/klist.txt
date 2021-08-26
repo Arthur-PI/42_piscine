@@ -1,0 +1,5 @@
+Credentials cache: API:78B385CD-9750-445C-A8FC-AB514CEE402F
+        Principal: apigeon@42.FR
+
+  Issued                Expires               Principal
+Aug  3 11:22:30 2021  Aug 10 11:22:30 2021  krbtgt/42.FR@42.FR

@@ -1,0 +1,1 @@
+echo $FT_NBR1 + $FT_NBR2 | tr "mrdoc" '01234' | tr '\\"?!' '1234' | tr "'" '0' | awk '{print "ibase=5;obase=5;"$0}' | bc | awk '{print "ibase=5;"$1}' | bc | awk '{print "ibase=10;obase=13;"$1}' | bc | tr '0123456789ABC' 'gtaio luSnemf' 
